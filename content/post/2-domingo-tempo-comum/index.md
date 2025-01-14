@@ -12,8 +12,6 @@ tags: ["Repertório Dominical"]
 
 > 19/01/2025 - Cor Litúrgica: Verde
 
-<!--more-->
-
 ## Gradual Romano
 
 **Antífona de Entrada:** _Toda a terra vos adore com respeito e proclame o louvor do vosso nome, ó Altíssimo_ (cf. Missal Romano Sl 65, 4)
