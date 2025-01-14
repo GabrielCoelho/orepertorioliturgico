@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Contato
 links:
   - title: GitHub
     description: Todos os posts estão hospedados aqui
@@ -19,4 +19,3 @@ comments: false
 ---
 
 # Entre em contato
-
