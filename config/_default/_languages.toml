@@ -1,6 +1,6 @@
 # Rename this file to languages.toml to enable multilingual support
-[en]
-languageName = "English"
+[pt-br]
+languageName = "Português Brasileiro"
 languagedirection = "ltr"
-title = "Example Site"
+title = "O Repertório Litúrgico"
 weight = 1
