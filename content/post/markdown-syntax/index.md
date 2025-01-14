@@ -2,6 +2,7 @@
 title: Markdown Syntax Guide
 date: 2023-09-07
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+draft: true
 tags: 
     - markdown
     - css
@@ -21,10 +22,15 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ## Paragraph
@@ -55,6 +61,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
    Name | Age
 --------|------
+
     Bob | 27
   Alice | 23
 
@@ -69,6 +76,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
 
 ## Code Blocks
+
 ### Code block with backticks
 
 ```html
@@ -148,3 +156,4 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+
