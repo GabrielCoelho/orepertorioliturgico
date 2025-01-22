@@ -1,6 +1,6 @@
 ---
 title: 2º Domingo do Tempo Comum
-description: 
+description: "Infundi em nós, Senhor, o Espírito do vosso amor, e fazei que vivam sempre unidos os que saciastes com o único pão do céu"
 date: 2025-01-14
 image: 2.jpg
 categories: ["Tempo Comum"]

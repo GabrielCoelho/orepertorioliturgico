@@ -1,6 +1,6 @@
 ---
 title: 3º Domingo do Tempo Comum
-description: 
+description: "Concedei-nos, Deus todo-poderoso, que, tendo recebido a graça de uma nova vida, sempre nos gloriemos dos vossos dons."
 date: 2025-01-18
 image: 3.jpg
 categories: ["Tempo Comum"]
