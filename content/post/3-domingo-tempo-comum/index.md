@@ -1,7 +1,7 @@
 ---
 title: 3º Domingo do Tempo Comum
 description: 
-date: 2025-01-14
+date: 2025-01-18
 image: 3.jpg
 categories: ["Tempo Comum"]
 tags: ["Repertório Dominical"]
