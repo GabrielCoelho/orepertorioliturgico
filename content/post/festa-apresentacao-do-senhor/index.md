@@ -3,7 +3,7 @@ title: Festa da Apresentação do Senhor
 description: "Ó Deus, luz verdadeira, autor e doador da luz eterna, infundi nos corações dos vossos fiéis a claridade da luz que não se apaga, para que, iluminados neste templo santo, pelo fulgor destas velas, possam chegar felizes à luz da vossa glória." 
 date: 2025-01-22
 image: cover.jpg
-categories: ["Tempo Comum"]
+categories: ["Tempo Comum", "Festas do Senhor"]
 tags: ["Repertório Dominical"]
 ---
 # Festa da Apresentação do Senhor 
