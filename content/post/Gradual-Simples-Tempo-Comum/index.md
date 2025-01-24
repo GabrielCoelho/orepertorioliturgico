@@ -1,7 +1,7 @@
 ---
 title: Gradual Simples - Tempo Comum
 description: Sugestões com base nas 8 missas do Gradual Simples para o Tempo Comum
-date: 2025-01-22
+date: 2025-01-24
 image: cover.jpg
 categories: ["Tempo Comum"]
 tags: ["Gradual Simples"]
