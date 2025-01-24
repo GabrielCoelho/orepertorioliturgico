@@ -54,6 +54,7 @@ tags: ["Repertório Dominical"]
 - [Clayton Dias](https://youtu.be/MP5_05tyemk)
 - [Delphim Rezende Porto](https://youtu.be/5h0-g7vPReo?si=iKtQtykIiS8fdZNT)
 - [Emerson Firmino](https://youtu.be/ykh8PH5QkIE)
+- [Gabriel de Lima](https://youtu.be/geC6K8VFrus?si=JuHUTlJwj4gvGl6G)
 - [_Gradual Simples em Vernáculo_](https://youtu.be/YEaECJFoBv0?si=CH0YqFojQLWlHrhD)
 - [Marcela Buback](https://youtu.be/FizmS-kUiPs?si=G1DqBTcXpJOAXsxV)
 - [Marcelo Koychi](https://youtu.be/UVKe9AclPo0?si=2AjHVTa7Wt3y7kJx)
@@ -66,11 +67,13 @@ tags: ["Repertório Dominical"]
 
 - [Cantando Antífonas](https://youtu.be/v7cv75_-27Y?si=O5iLOErB-RIYM-Mk)
 - [Coral Santa Cecília](https://youtube.com/shorts/W15a0qLmLbI?si=cfbkRTK9UtF5AqX1)
+- [Gabriel de Lima](https://youtu.be/D3jVDyeVN-s?si=1EE_q_-y5m0udyt1)
 - [Marcelo Koychi](https://youtu.be/jjjjIvolWaA?si=Byi-vysFkQ2pera_)
 
 **Antífona de Comunhão:** _O Espírito Santo havia anunciado que Simeão não morreria antes de ver o Messias_ (cf. Lc 2, 26) 
 
 - [Clayton Dias _Missal Romano_](https://youtu.be/H11UFN2I1pU?si=NQr1Uws1F5K-IJAg)
+- [Gabriel de Lima _Missal Romano_](https://youtu.be/zxQSP8_SWws?si=hPjuzHhs3Dt30tB8)
 - [Gilson Celerino _Missal Romano_](https://youtu.be/eS1LFSGn2EI?si=a4PTIcMkc1PFY91y)
 - [Marcela Buback](https://youtu.be/P_JQAD_YCxE?si=B7cg_umbCS2c1p2i)
 - [Mônica Siqueira](https://youtu.be/S20ru-N4evo?si=_sT0APFT-3iuyj2S)
