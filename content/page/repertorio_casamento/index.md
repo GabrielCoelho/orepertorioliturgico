@@ -1,5 +1,6 @@
 ---
 title: Repertório Angeli Cantus
+slug: "casamento"
 comments: false
 ---
 # Repertório para casamento - Angeli Cantus
