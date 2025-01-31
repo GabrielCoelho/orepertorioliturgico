@@ -63,24 +63,24 @@ Velai, Senhor, nós vos pedimos, com incansável amor sobre vossa família; e po
 
 ## Hinário Litúrgico CNBB
 **Sugestões de Entrada:** 
-[Vão entrando e de joelhos](https://youtu.be/VuvIfB4iCNU)
+[Vão entrando e de joelhos](https://youtu.be/VuvIfB4iCNU)<br />
 (Hinário Litúrgico CNBB fascículo 3 - pág. 120)
 
-[Vamos, irmãos, louvar o Senhor](https://youtu.be/e1RARXhCkBU)
+[Vamos, irmãos, louvar o Senhor](https://youtu.be/e1RARXhCkBU)<br />
 (Hinário Litúrgico CNBB fascículo 3 - pág. 321)
 
-[Como igreja subiremos](https://youtu.be/ATNpE6N6W1c)
+[Como igreja subiremos](https://youtu.be/ATNpE6N6W1c)<br />
 (Hinário Litúrgico CNBB fascículo 3 - pág. 400)
 
 **Ofertório:**
-[Bom é louvar o Senhor, nosso Deus](https://youtu.be/MM1fGQvVnHM?si=XQdtDsgyz0hjNgm8)
+[Bom é louvar o Senhor, nosso Deus](https://youtu.be/MM1fGQvVnHM?si=XQdtDsgyz0hjNgm8)<br />
 (Hinário Litúrgico CNBB fascículo 3 - pág. 334)
 
 **Comunhão:**
-[Muito embora cansados, Senhor](https://youtu.be/S-JNpVNI32s?si=n_vxcNWTQXjghQW)
+[Muito embora cansados, Senhor](https://youtu.be/S-JNpVNI32s?si=n_vxcNWTQXjghQW)<br />
 (Hinário Litúrgico CNBB fascículo 3 (2019)- pág. 89)
 
-[Ó Mestre trabalhamos a noite toda](https://youtu.be/TZb3Sg2xl1M?si=mNOY76NsP5V9xaI)
+[Ó Mestre trabalhamos a noite toda](https://youtu.be/TZb3Sg2xl1M?si=mNOY76NsP5V9xaI)<br />
 (Cantos do Evangelho - Pe. José Weber, SVD)
 
 ### Salmo - Sl 137(138),1-2a.2bc.3.4-5.7c-8 (R. 1c.2a)
@@ -88,26 +88,26 @@ Velai, Senhor, nós vos pedimos, com incansável amor sobre vossa família; e po
 **R: Vou cantar-vos, ante os anjos, ó Senhor, e ante o vosso templo vou prostrar-me.**
 
 Ó Senhor, de coração eu vos dou graças, \* <br />
-porque ouvistes as palavras dos meus lábios!
+porque ouvistes as palavras dos meus lábios!<br />
 Perante os vossos anjos vou cantar-vos \*<br />
-e ante o vosso templo vou prostrar-me. R.
+e ante o vosso templo vou prostrar-me. R.<br />
 
 Eu agradeço vosso amor, vossa verdade, \*<br />
-porque fizestes muito mais que prometestes;
+porque fizestes muito mais que prometestes;<br />
 naquele dia em que gritei, vós me escutastes \*<br />
-e aumentastes o vigor da minha alma. R.
+e aumentastes o vigor da minha alma. R.<br />
 
 Os reis de toda a terra hão de louvar-vos, \*<br />
-quando ouvirem, ó Senhor, vossa promessa.
+quando ouvirem, ó Senhor, vossa promessa.<br />
 Hão de cantar vossos caminhos e dirão: \*<br />
 "Como a glória do Senhor é grandiosa!" R.
 
 Estendereis o vosso braço em meu auxílio \*<br />
-e havereis de me salvar com vossa destra.
+e havereis de me salvar com vossa destra.<br />
 Completai em mim a obra começada;\*<br />
-ó Senhor, vossa bondade é para sempre!
+ó Senhor, vossa bondade é para sempre!<br />
 Eu vos peço: não deixeis inacabada \*<br />
-esta obra que fizeram vossas mãos! R. 
+esta obra que fizeram vossas mãos! R. <br />
 - [Franciele Pereira](https://youtu.be/yk0gYPYI6KQ?si=vilUQbH5mdSU9M1k)
 - [Ir. Miria T. Kolling](https://youtu.be/SfkawttFWgw?si=6wkkZn_PtFAi9qUM)
 - [Paulo Neto](https://youtu.be/dV3uE1Rqx6I?si=erZwZQXdtT4O27-R)
