@@ -1,10 +1,15 @@
 ---
 title: 6º Domingo do Tempo Comum
-date: 2024-01-01
+description: "Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade."
+date: 2025-02-01
+image: cover.jpg
 categories: ["Tempo Comum"]
 tags: ["Repertório Dominical"]
 ---
-"**Ó Deus, que este sacrifício nos purifique e renove e seja fonte de eterna recompensa para os que fazem a vossa vontade.**" - Oração sobre as oferendas
+# 6º Domingo do Tempo Comum
+**"Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade."** - Oração sobre as oferendas
+
+> 16/02/2025 - Cor Litúrgica: Verde
 
 ## Gradual Romano
 **Antífona de Entrada**: _Sede o rochedo que me abriga, a casa bem defendida que me salva. Sois minha fortaleza e minha rocha; para honra do vosso nome, vós me conduzis e alimentais_ (cf. Missal Romano Sl 30, 3s)
@@ -31,7 +36,23 @@ tags: ["Repertório Dominical"]
 -   [Marcela Buback](https://youtu.be/tCxVN_MFp1M)
 -   [Paulo Neto](https://youtu.be/bfVMggAbDJk)
 
-![[Gradual Simples - Missa II - Tempus per annum]]
+## Gradual Simples 
+**Missa II** 
+**Antífona de Entrada**: _Para mim fostes sempre um socorro_ (cf. Liturgia das Horas Sl 62, 8a)
+-   [Angelo La Serra](https://youtu.be/22H2sovnJUk)
+
+**Antífona de Ofertório**: _Ficai atento ao clamor da minha prece, ó meu Rei e meu Senhor_ (cf. Liturgia das Horas Sl 5, 3)
+-   [Angelo La Serra](https://youtu.be/E50CR5zrvBo)
+-   [Gabriel - Missa Cantada](https://youtu.be/NgkVwzbB3c0)
+-   [Marcela Buback](https://youtu.be/1V5aZ3ZMxDc)
+
+**Antífona de Comunhão**: _Que eu vos cante pelo bem que me fizestes!_ (Cf. Liturgia das Horas Sl 12, 6c)
+-   [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
+-   [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
+-   [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
+-   [Maike Siman](https://youtu.be/E__HHFH-m_E)
+-   [Marcela Buback](https://youtu.be/4I32jrTW5yg)
+
 
 ## Hinário Litúrgico CNBB
 **Entrada:**
@@ -46,11 +67,36 @@ tags: ["Repertório Dominical"]
 (Hinário Litúrgico CNBB fascículo 3 - pág. 334)
 
 **Comunhão:**
-[Senhor, se tu queres tu podes curar](https://youtu.be/Py12PFDFt_U?si=gaze4zZ7qipZQC8e)
-(Hinário Litúrgico CNBB fascículo 3 - pág. 248-249)
+[Felizes os pobres, felizes os mansos](https://youtu.be/Z4gLgt-zgM8?si=bzdCQ6XPta9HxBH7)
+(Hinário Litúrgico CNBB fascículo 3 (2019) - pág. 94)
 
-[Se queres, Senhor, podes purificar-me](https://youtu.be/g8WQQH4ke7E?si=8HNlb6VxoJl6YzxU)
+[Felizes de vós que sois pobres](https://youtu.be/_VJ8Yrh_0-g?si=jjhQy-cSB70gRiC6)
 (Cantos do Evangelho - Pe. José Weber, SVD)
+
+## Salmo - Sl 1,1-2.3.4.6 (R. Sl 39,5a)
+
+**R.: É feliz quem a Deus se confia!**
+
+Feliz é todo aquele que não anda \*<br />
+conforme os conselhos dos perversos;<br />
+que não entra no caminho dos malvados, \*<br />
+nem junto aos zombadores vai sentar-se;<br />
+mas encontra seu prazer na lei de Deus \*<br />
+e a medita, dia e noite, sem cessar. R.<br />
+
+Eis que ele é semelhante a uma árvore, \*<br />
+que à beira da torrente está plantada;<br />
+ela sempre dá seus frutos a seu tempo, †<br />
+e jamais as suas folhas vão murchar. \*<br />
+Eis que tudo o que ele faz vai prosperar. R.<br />
+
+Mas bem outra é a sorte dos perversos. †<br />
+Ao contrário, são iguais à palha seca \*<br />
+espalhada e dispersada pelo vento.<br />
+Pois Deus vigia o caminho dos eleitos, \*<br />
+mas a estrada dos malvados leva à morte. R.<br />
+
+<!--
 
 ## Ano A
 ### Salmo - Sl 118(119),1-2.4-5.17-18.33-34 (R.1)
@@ -100,3 +146,4 @@ Corações retos, cantai jubilosos! R.
 - [Arautos do Evangelho](https://youtu.be/Fpe4H5pfims?si=f6gQaHNZF_AXoyFj)
 - [Ir. Miria T Kolling](https://youtu.be/9N6tsPIzGv0?si=DFzo6FUrlIVBWtpf&t=136)
 - [Paulo Neto](https://youtu.be/umaOKJTbuFk?si=tEpRGboeiFXWSItY)
+-->
