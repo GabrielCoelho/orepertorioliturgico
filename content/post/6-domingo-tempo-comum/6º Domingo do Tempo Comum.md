@@ -95,6 +95,10 @@ Ao contrário, são iguais à palha seca \*<br />
 espalhada e dispersada pelo vento.<br />
 Pois Deus vigia o caminho dos eleitos, \*<br />
 mas a estrada dos malvados leva à morte. R.<br />
+- [Franciele Pereira](https://youtu.be/bQco3Gca-1E?si=5chTMa3wGZ05p5wc)
+- [Ioalanda Guedes](https://youtu.be/vi20xN-cQb4?si=-qMRUVs2qX-4WzaR)
+- [Ir. Miria T Kolling](https://youtu.be/Er15LSPKnMk?si=adkeaRyFMDweyDVu)
+- [Paulo Neto](https://youtu.be/yYkM29qZaVQ?si=odi2fp-n8ftyfMii)
 
 <!--
 
