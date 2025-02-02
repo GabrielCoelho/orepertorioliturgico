@@ -2,7 +2,7 @@
 title: 6º Domingo do Tempo Comum
 description: "Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade."
 date: 2025-02-01
-image: cover.jpg
+image: 6.jpg
 categories: ["Tempo Comum"]
 tags: ["Repertório Dominical"]
 ---
