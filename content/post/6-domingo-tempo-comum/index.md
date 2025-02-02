@@ -38,6 +38,7 @@ tags: ["Repertório Dominical"]
 
 ## Gradual Simples 
 **Missa II** 
+
 **Antífona de Entrada**: _Para mim fostes sempre um socorro_ (cf. Liturgia das Horas Sl 62, 8a)
 -   [Angelo La Serra](https://youtu.be/22H2sovnJUk)
 
