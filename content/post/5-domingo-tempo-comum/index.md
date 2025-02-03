@@ -30,9 +30,11 @@ Velai, Senhor, nós vos pedimos, com incansável amor sobre vossa família; e po
 
 <!--## Ano A e C-->
 **Antífona de Comunhão**: _Então irei aos altares do Senhor, Deus da minha alegria. Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus!_ (Cf. Liturgia das Horas Sl 42, 4)
+- [Cantando Antífonas](https://youtu.be/x1n4LGEESxk)
 -   [Pe. Joseph Gelineau, SJ](https://youtu.be/AAN6C5XM_6o)
 -   [J. Francisco (adapt.: Mônica Siqueira)](https://youtu.be/N3oAuuXKF78)
 -   [Marcela Buback](https://youtu.be/iGxEeUoqUOU)
+- [Marcelo Koychi](https://youtu.be/6F3su_c16pA?si=tdw5ScKeFi5SldHS)
 -   [Pe. Wallison Rodrigues](https://youtu.be/2IBIM0NNOO4)
 
 <!--
@@ -111,6 +113,7 @@ esta obra que fizeram vossas mãos! R. <br />
 - [Franciele Pereira](https://youtu.be/yk0gYPYI6KQ?si=vilUQbH5mdSU9M1k)
 - [Ir. Miria T. Kolling](https://youtu.be/SfkawttFWgw?si=6wkkZn_PtFAi9qUM)
 - [Paulo Neto](https://youtu.be/dV3uE1Rqx6I?si=erZwZQXdtT4O27-R)
+- [Samara Marques](https://youtu.be/kLMwZPizzYk)
 
 <!--
 ## Ano A
