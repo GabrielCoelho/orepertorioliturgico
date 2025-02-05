@@ -26,6 +26,7 @@ Para o tempo comum, o gradual simples traz 8 opções de antífonas de Entrada, 
 
 **Antífona de Ofertório:** _Gritai a Deus aclamações de alegria!_ (cf. Liturgia das Horas Sl 46(47), 2b)
 
+- [Agnaldo Armindo](https://youtu.be/lrhT3WRVp0A?si=-IiCJE79IUJsS16m)
 - [Angelo La Serra](https://youtu.be/p7l-pyandfQ)
 
 **Antífona de Comunhão:** _Todos eles se admiravam das palavras proferidas pelos lábios do Senhor!_ (cf. Liturgia das Horas Lc 4, 22)
