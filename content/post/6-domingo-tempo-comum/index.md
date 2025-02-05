@@ -7,55 +7,66 @@ categories: ["Tempo Comum"]
 tags: ["Repertório Dominical"]
 ---
 # 6º Domingo do Tempo Comum
+
 **"Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade."** - Oração sobre as oferendas
 
 > 16/02/2025 - Cor Litúrgica: Verde
 
 ## Gradual Romano
+
 **Antífona de Entrada**: _Sede o rochedo que me abriga, a casa bem defendida que me salva. Sois minha fortaleza e minha rocha; para honra do vosso nome, vós me conduzis e alimentais_ (cf. Missal Romano Sl 30, 3s)
--   [Pe. António Az. Oliveira](https://ocantonaliturgia.pt/obras/841/Rochedo-meu-abrigo-Az-Oliveira)
--   [Cantando Antífonas](https://youtu.be/BKE3oU7XBpM)
--   [Clayton Dias](https://youtu.be/Jqgtg69LPh0)
--   [Clayton Dias 2ª Opção](https://youtu.be/wNHWdcdXJow)
--   [Geovane Ferreira](https://youtu.be/2iT1MJ17ZGw)
--   [João Andrade Nunes](https://ocantonaliturgia.pt/obras/838/Sede-a-rocha-do-meu-ref%C3%BAgio--J-A-Nunes)
--   [Marcela Buback](https://youtu.be/iHlBJn-s7wA)
--   [Mosteiro de São Bento - Vinhedo/SP](https://youtu.be/l_cmTwQ6nO0)
--   [Fr. Wanderson Luiz Freitas, O.Carm.](https://youtu.be/_Kc1td70bEg)
+
+- [Pe. António Az. Oliveira](https://ocantonaliturgia.pt/obras/841/Rochedo-meu-abrigo-Az-Oliveira)
+- [Cantando Antífonas](https://youtu.be/BKE3oU7XBpM)
+- [Clayton Dias](https://youtu.be/Jqgtg69LPh0)
+- [Clayton Dias 2ª Opção](https://youtu.be/wNHWdcdXJow)
+- [Geovane Ferreira](https://youtu.be/2iT1MJ17ZGw)
+- [João Andrade Nunes](https://ocantonaliturgia.pt/obras/838/Sede-a-rocha-do-meu-ref%C3%BAgio--J-A-Nunes)
+- [Marcela Buback](https://youtu.be/iHlBJn-s7wA)
+- [Mosteiro de São Bento - Vinhedo/SP](https://youtu.be/l_cmTwQ6nO0)
+- [Fr. Wanderson Luiz Freitas, O.Carm.](https://youtu.be/_Kc1td70bEg)
 
 **Antífona de Ofertório**: _Ó Senhor, vós sois bendito para sempre; os vossos mandamentos ensinai-me! Com meus lábios, ó Senhor, eu enumero, os decretos que ditou a vossa boca._ (cf. Liturgia das Horas Sl 118, 12.13)
--   [Marcela Buback](https://youtu.be/A2iOdHjWzrQ)
--   [Marcela Buback 2ª Opção](https://youtu.be/kRTxsKhzTPc)
+
+- [Marcela Buback](https://youtu.be/A2iOdHjWzrQ)
+- [Marcela Buback 2ª Opção](https://youtu.be/kRTxsKhzTPc)
 
 **Antífona de Comunhão**: _Eles comeram e beberam à vontade; o Senhor satisfizera os seus desejos._ (cf. Missal Romano Sl 77, 29s)
--   [Pe. António Az. Oliveira](https://ocantonaliturgia.pt/obras/847/O-Senhor-deu-lhes-o-p%C3%A3o-do-C%C3%A9u-Az-Oliveira)
--   [Pe. Antonio Ferreira dos Santos](https://ocantonaliturgia.pt/obras/848/O-Senhor-deu-lhes-o-p%C3%A3o-do-C%C3%A9u-F-Santos)
--   [Cantando Antífonas](https://youtu.be/FN_RNgXCAeA)
--   [Clayton Dias](https://youtu.be/VciK7pGaxkQ)
--   [Maike Siman](https://youtu.be/7sPFNqRYsmc)
--   [Marcela Buback](https://youtu.be/tCxVN_MFp1M)
--   [Paulo Neto](https://youtu.be/bfVMggAbDJk)
 
-## Gradual Simples 
-**Missa II** 
+- [Pe. António Az. Oliveira](https://ocantonaliturgia.pt/obras/847/O-Senhor-deu-lhes-o-p%C3%A3o-do-C%C3%A9u-Az-Oliveira)
+- [Pe. Antonio Ferreira dos Santos](https://ocantonaliturgia.pt/obras/848/O-Senhor-deu-lhes-o-p%C3%A3o-do-C%C3%A9u-F-Santos)
+- [Cantando Antífonas](https://youtu.be/FN_RNgXCAeA)
+- [Clayton Dias](https://youtu.be/VciK7pGaxkQ)
+- [Maike Siman](https://youtu.be/7sPFNqRYsmc)
+- [Marcela Buback](https://youtu.be/tCxVN_MFp1M)
+- [Paulo Neto](https://youtu.be/bfVMggAbDJk)
+
+## Gradual Simples
+
+> **Missa II**
 
 **Antífona de Entrada**: _Para mim fostes sempre um socorro_ (cf. Liturgia das Horas Sl 62, 8a)
--   [Angelo La Serra](https://youtu.be/22H2sovnJUk)
+
+- [Angelo La Serra](https://youtu.be/22H2sovnJUk)
 
 **Antífona de Ofertório**: _Ficai atento ao clamor da minha prece, ó meu Rei e meu Senhor_ (cf. Liturgia das Horas Sl 5, 3)
--   [Angelo La Serra](https://youtu.be/E50CR5zrvBo)
--   [Gabriel - Missa Cantada](https://youtu.be/NgkVwzbB3c0)
--   [Marcela Buback](https://youtu.be/1V5aZ3ZMxDc)
+
+- [Angelo La Serra](https://youtu.be/E50CR5zrvBo)
+- [Eder Peçanha](https://youtu.be/doYQua_xGcY?si=dzT9d3r6PgkkhEG2)
+- [Gabriel - Missa Cantada](https://youtu.be/NgkVwzbB3c0)
+- [Marcela Buback](https://youtu.be/1V5aZ3ZMxDc)
 
 **Antífona de Comunhão**: _Que eu vos cante pelo bem que me fizestes!_ (Cf. Liturgia das Horas Sl 12, 6c)
--   [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
--   [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
--   [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
--   [Maike Siman](https://youtu.be/E__HHFH-m_E)
--   [Marcela Buback](https://youtu.be/4I32jrTW5yg)
+
+- [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
+- [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
+- [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
+- [Maike Siman](https://youtu.be/E__HHFH-m_E)
+- [Marcela Buback](https://youtu.be/4I32jrTW5yg)
 
 
 ## Hinário Litúrgico CNBB
+
 **Entrada:**
 [Sê a rocha que me abriga](https://youtu.be/t1VgQPmtMcM?si=SEjkjarDfLQmD9x6)
 (Hinário Litúrgico CNBB fascículo 3 - pág. 121)
@@ -96,6 +107,7 @@ Ao contrário, são iguais à palha seca \*<br />
 espalhada e dispersada pelo vento.<br />
 Pois Deus vigia o caminho dos eleitos, \*<br />
 mas a estrada dos malvados leva à morte. R.<br />
+
 - [Franciele Pereira](https://youtu.be/bQco3Gca-1E?si=5chTMa3wGZ05p5wc)
 - [Ioalanda Guedes](https://youtu.be/vi20xN-cQb4?si=-qMRUVs2qX-4WzaR)
 - [Ir. Miria T Kolling](https://youtu.be/Er15LSPKnMk?si=adkeaRyFMDweyDVu)
