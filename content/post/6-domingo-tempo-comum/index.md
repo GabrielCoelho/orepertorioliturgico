@@ -60,9 +60,10 @@ tags: ["Repertório Dominical"]
 
 - [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
 - [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
-- [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
+- [Pe. José Fernandes da Silva](https://youtu.be/C5CntomX59M?si=Bv8pHgjvfONjA0OM)
 - [Maike Siman](https://youtu.be/E__HHFH-m_E)
 - [Marcela Buback](https://youtu.be/4I32jrTW5yg)
+- [Marcelo Koychi](https://youtu.be/53mS5vZnvxQ?si=bn-2Lz7RvpgUcIiK)
 
 
 ## Hinário Litúrgico CNBB
@@ -110,7 +111,6 @@ mas a estrada dos malvados leva à morte. R.<br />
 
 - [Franciele Pereira](https://youtu.be/bQco3Gca-1E?si=5chTMa3wGZ05p5wc)
 - [Ioalanda Guedes](https://youtu.be/vi20xN-cQb4?si=-qMRUVs2qX-4WzaR)
-- [Ir. Miria T Kolling](https://youtu.be/Er15LSPKnMk?si=adkeaRyFMDweyDVu)
 - [Paulo Neto](https://youtu.be/yYkM29qZaVQ?si=odi2fp-n8ftyfMii)
 
 <!--

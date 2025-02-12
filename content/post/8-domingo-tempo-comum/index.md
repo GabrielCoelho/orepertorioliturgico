@@ -32,7 +32,6 @@ tags: ["Repertório Dominical"]
 
 - [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
 - [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
-- [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
 - [Pe. José Fernandes da Silva](https://youtu.be/C5CntomX59M?si=Bv8pHgjvfONjA0OM)
 - [Maike Siman](https://youtu.be/E__HHFH-m_E)
 - [Marcela Buback](https://youtu.be/4I32jrTW5yg)
@@ -59,9 +58,10 @@ tags: ["Repertório Dominical"]
 
 - [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
 - [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
-- [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
+- [Pe. José Fernandes da Silva](https://youtu.be/C5CntomX59M?si=Bv8pHgjvfONjA0OM)
 - [Maike Siman](https://youtu.be/E__HHFH-m_E)
 - [Marcela Buback](https://youtu.be/4I32jrTW5yg)
+- [Marcelo Koychi](https://youtu.be/53mS5vZnvxQ?si=bn-2Lz7RvpgUcIiK)
 
 ## Hinário Litúrgico CNBB
 

@@ -61,9 +61,10 @@ _Concedei-nos, Deus todo-poderoso, meditar sempre as realidades espirituais, e p
 
 - [Angelo La Serra](https://youtu.be/FNe4fu_SXBk)
 - [Cantando Antífonas](https://youtu.be/idHVSkU-i4E)
-- [Carolina Faustino e Thiago Choquetta](https://youtu.be/MYG-mJrOHyA)
+- [Pe. José Fernandes da Silva](https://youtu.be/C5CntomX59M?si=Bv8pHgjvfONjA0OM)
 - [Maike Siman](https://youtu.be/E__HHFH-m_E)
 - [Marcela Buback](https://youtu.be/4I32jrTW5yg)
+- [Marcelo Koychi](https://youtu.be/53mS5vZnvxQ?si=bn-2Lz7RvpgUcIiK)
 
 
 
@@ -114,6 +115,8 @@ tanto afasta para longe nossos crimes.<br />
 Como um pai se compadece de seus filhos, \*<br />
 o Senhor tem compaixão dos que o temem. R.<br />
 
+- [Agnaldo Armindo](https://youtu.be/veDYS75tifs?si=Vo7nVOIVR-9gf-n-)
+- [Arautos do Evangelho](https://youtu.be/herm-emOFno?si=oxDuraVuZp71jl_v)
 - [Claudemir Faria](https://youtu.be/UlO9dr5SW3s?si=e-DBRK30MteXJXte)
 - [Iolanda Guedes](https://youtu.be/AKEIWxsDE1g?si=InFySbZdxhirIc3f)
 - [Marcelo Koychi](https://youtu.be/VAA14Noq5Iw?si=RfLoJAtdMay-S6Zl)
