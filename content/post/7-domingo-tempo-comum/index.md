@@ -119,6 +119,7 @@ o Senhor tem compaixão dos que o temem. R.<br />
 - [Arautos do Evangelho](https://youtu.be/herm-emOFno?si=oxDuraVuZp71jl_v)
 - [Claudemir Faria](https://youtu.be/UlO9dr5SW3s?si=e-DBRK30MteXJXte)
 - [Iolanda Guedes](https://youtu.be/AKEIWxsDE1g?si=InFySbZdxhirIc3f)
+- [Franciele Pereira](https://youtu.be/3x_iQ4CODsQ?si=i3hAt8_KempzKFvI)
 - [Marcelo Koychi](https://youtu.be/VAA14Noq5Iw?si=RfLoJAtdMay-S6Zl)
 
 <!--

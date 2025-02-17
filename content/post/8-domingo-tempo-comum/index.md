@@ -103,5 +103,6 @@ e dirão: "É justo mesmo o Senhor Deus: \* \
 meu Rochedo, não existe nele o mal!" R.
 
 - [Claudemir Faria](https://youtu.be/86XT5_ERSOQ?si=-wrqPNVKZVIHvxnU&t=437)
+- [Franciele Pereira](https://youtu.be/6GUyd9Wmbjs?si=4H4HYyIbyNUuksqR)
 - [Marcelo Koychi](https://youtu.be/8ey3jlQJbk8?si=ha5r_FwBFQTkn6Vm)
 - [Ir. Miria T Kolling](https://youtu.be/UzgdRJCu8UE?si=anFMutvgAzagLw-B)
