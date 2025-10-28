@@ -1,6 +1,7 @@
 ---
 title: Comemoração de Todos os Fiéis Defuntos
 date: 2025-10-28
+image: cover.png
 categories: ["Tempo Comum", "Finados", "Celebração da Morte Cristã"]
 tags: ["Repertório Dominical"]
 ---
