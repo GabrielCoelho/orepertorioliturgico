@@ -8,10 +8,8 @@ tags: ["Repertório Dominical"]
 
 # Comemoração de Todos os Fiéis Defuntos
 
-![Capa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDdb0_t9goNtGk_NbkxOnCO2641j3IF4_8UDo9ur0gEBq--4NqNrPbV3bhbOWs5WxNjk9rv-7xFWvIuKxQFSSR9C5-s88dDN0Sw2FZU64UfCgbTyIhaBG_pdq7DR-G6dNHTZ9VGvatgAbRbrYtuTLTJoraVX3oXsEI_3C8OafGMieFG3_AusRzmz01/w640-h640/Capa%20das%20edi%C3%A7%C3%B5es%20(Post%20para%20Instagram%20(quadrado))%20(2).png)
-
 > "Ó Deus, fizestes o vosso Filho único vencer a morte e subir ao céu. Concedei a vossos filhos e filhas superar a mortalidade desta vida e contemplar eternamente a vós, Criador e Redentor de todos."
-> — Oração Coleta III
+> — Oração Coleta II
 
 **Data:** 02/11/2025
 
