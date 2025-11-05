@@ -26,6 +26,7 @@ tags: ["Repertório Dominical"]
 
 - [Cantando Antífonas - Missal Romano](https://youtu.be/9JH3F6DhegY)
 - [Canto Novo](https://youtu.be/A2NYBuRvscQ)
+- [Douglas Assumpção](https://youtu.be/G6vj3pFXv9E?si=tKcjlLOeAUO-jvya)
 - [Edições CNBB](https://youtu.be/ApAWHvShHOM)
 - [Elaine Marchi](https://youtu.be/CvoTx4AXNMY)
 - [Frei Wanderson, O. Carm. - Música Litúrgica](https://youtu.be/l0omQtUD_pY)
